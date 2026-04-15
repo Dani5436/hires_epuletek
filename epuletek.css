@@ -11,10 +11,15 @@
 .kepfelirat
 {
 	text-align: center;
+	
 }
 
 .galeriakep
 {
 	margin: auto;
 	display: block;
+}
+ 
+body {
+	background-color: #f7eddc;
 }
